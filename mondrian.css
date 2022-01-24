@@ -3,7 +3,7 @@ body, html {
 }
 
 #canvas {
-    background-color: #fff4db;
+    background-color: #fdfffc;
     width: 400px;
     height: 400px;
     margin-top: 30px;
@@ -11,3 +11,87 @@ body, html {
     margin-right: auto;
     box-shadow: 10px 10px 0px #8d8d8d;
 }
+
+#toprow {
+    height: 290px;
+}
+
+#bigbox {
+    width: 290px;
+    height: 290px;
+}
+
+.color1 {
+    background-color: #e71d36;
+}
+
+.color2 {
+    background-color: #ff9f1c;
+}
+
+.color3 {
+    background-color: #2ec4b6;
+}
+
+.liner {
+    background-color: #011627;
+}
+
+.right {
+    float:right;
+}
+
+#liner1 {
+    height: 290px;
+    width: 10px;
+}
+
+.mediumbox {
+    width: 100px;
+    height: 140px;
+}
+
+#liner2 {
+    height: 10px;
+    width: 100px;
+}
+
+#middlerow {
+    height: 10px;
+    width: 400px;
+}
+
+#bottomrightcolumn {
+    height: 100px;
+    width: 40px;
+}
+
+.smallbox {
+    width: 50px;
+    height: 45px;
+}
+
+#liner5 {
+    height: 10px;
+    width: 50px;
+}
+
+#liner6 {
+    height: 100px;
+    width: 10px;
+}
+
+#bottommiddlebox {
+    height: 100px;
+    width: 240px;
+}
+
+#liner4 {
+    height: 100px;
+    width: 10px;
+  }
+
+  #bottomleftbox {
+    width: 100px;
+    height: 100px;
+  }
